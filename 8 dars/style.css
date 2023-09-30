@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    display: flex;
+
+    justify-content: end;
+
+    align-items: center;
+
+    height: 100px;
+
+    list-style: none;
+
+    gap: 50px;
+}
+
+ul li a {
+    text-decoration: none;
+
+    color: white;
+
+    font-size: 24px;
+}
+
+
+nav {
+    background-color: #858370;
+}
+
+
+.portfolio-rasm {
+    width: 200px;
+    height: 250px;
+}
+
+
+.birinchi {
+    display: flex;
+
+    justify-content: space-around;
+
+    margin-top: 50px;
+}
+
+h1{
+    font-size: 40px;
+
+    margin-bottom: 30px;
+}
+
+.junior {
+    margin-top: 30px;
+}
+
+.ong {
+    margin-top: 50px;
+}
+
+.ong2, .chap2{
+    margin-top: 50px;
+}
+
+.j{
+    margin-left: 30px;
+
+    margin-bottom: 30px;
+
+    font-size:23px ;
+
+    color:#858370;
+
+    
+}
+
+p{
+    margin-left: 30px;
+    margin-bottom: 15px;
+    
+}
+
+.l{
+margin-left: 30px;
+margin-top: 30px;
+text-decoration: none;
+font-size: 15px;
+}
+
+.ikkinchi{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    
+}
+.f{
+    margin-top: 10px;
+   margin-left: 750px;
+    width: 500px;
+    height: 200px;
+}
+
+h3{
+    display: flex;
+    margin-left: 750px;
+    color:#858370;
+}
+
+.uchinchi{
+    display: flex;
+
+    justify-content: space-around;
+
+    margin-top: 50px;
+}
